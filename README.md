@@ -11,7 +11,7 @@ allows you to check the validity of the resource configuration
       }
     }
 
-# postcondition
+# postcondition:
  you can reference data within the resource block with postconditions. 
  allows you to check the validity of the resource configuration
 
